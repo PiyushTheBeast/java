@@ -1,0 +1,15 @@
+You are travelling From Jabalpur
+On the dates Fri May 01 05:04:03 IST 2020ToWed May 27 05:04:20 IST 2020
+You are going to visit the following destinations
+Hyderabad
+Kashmir
+Chennai
+Rajkot
+Your budget is 156000
+The list of hotels You are going to visit
+hotel lords
+hotel oyo
+hotel manyawar
+The list of places You want to visit
+charminar 
+inorbit mall
